@@ -1,0 +1,357 @@
+{ "type": "FeatureCollection",
+    "features": [
+      { 
+	  "id": 0,
+	  "type": "Feature",
+        "geometry": {"type": "Point", "coordinates": [7.097, 50.732]},
+        "properties": {
+			"name": "Cell 0",
+			"mcc": 262,
+			"mnc": 1,
+			"area": 28501,
+			"cell_id": 42859264,
+			"sys_subtype": "LTE",
+			"PCI": "135 (45/0)",
+			"bandwidth": "20 MHz",
+			"EARFCN": 1300,
+			"max_RSRP": "-65 dBm",
+			"direction": "81°",
+			"height": "30 m",
+			"uplink_freq": "1720 MHz",
+			"downlink_freq": "1815 Mhz",
+			"freq_band": "DCS (B3 FDD)",
+			"time": "29. Okt. 2023" 
+			},
+		"style": {
+			"stroke-width": "3",
+			"fill-opacity": 0.6
+		}
+      },
+      { 
+	  "id": 1,
+	  "type": "Feature",
+        "geometry": {"type": "Point", "coordinates": [7.091, 50.736]},
+        "properties": {
+			"name": "Cell 1",
+			"mcc": 262,
+			"mnc": 1,
+			"area": 28501,
+			"cell_id": 42859265,
+			"sys_subtype": "LTE",
+			"PCI": "183 (61/0)",
+			"bandwidth": "10 MHz",
+			"EARFCN": 1444,
+			"max_RSRP": "-94 dBm",
+			"direction": "348°",
+			"height": "30 m",
+			"uplink_freq": "1734.4 MHz",
+			"downlink_freq": "1829.4 Mhz",
+			"freq_band": "DCS (B3 FDD)",
+			"time": "29. Okt. 2021" 
+			},
+		"style": {
+			"stroke-width": "3",
+			"fill-opacity": 0.6
+		}
+      },
+	  { 
+	  "id": 2,
+	  "type": "Feature",
+        "geometry": {"type": "Point", "coordinates": [7.10, 50.734]},
+        "properties": {
+			"name": "Cell 0",
+			"mcc": 262,
+			"mnc": 1,
+			"area": 28501,
+			"cell_id": 42214144,
+			"sys_subtype": "LTE",
+			"PCI": "452 (150/2)",
+			"bandwidth": "20 MHz",
+			"EARFCN": 1300,
+			"max_RSRP": "-85 dBm",
+			"direction": "43°",
+			"height": "35 m",
+			"uplink_freq": "1720 MHz",
+			"downlink_freq": "1815 Mhz",
+			"freq_band": "DCS (B3 FDD)",
+			"time": "29. Juni. 2023" 
+			},
+		"style": {
+			"stroke-width": "3",
+			"fill-opacity": 0.6
+		}
+      },
+	  { 
+	  "id": 3,
+	  "type": "Feature",
+        "geometry": {"type": "Point", "coordinates": [7.107, 50.731]},
+        "properties": {
+			"name": "Cell 0",
+			"mcc": 262,
+			"mnc": 1,
+			"area": 28501,
+			"cell_id": 26338816,
+			"sys_subtype": "LTE",
+			"PCI": "239 (79/2)",
+			"bandwidth": "20 MHz",
+			"EARFCN": 1300,
+			"max_RSRP": "-66 dBm",
+			"direction": "334°",
+			"height": "37 m",
+			"uplink_freq": "1720 MHz",
+			"downlink_freq": "1815 Mhz",
+			"freq_band": "DCS (B3 FDD)",
+			"time": "29. Mai 2023" 
+			},
+		"style": {
+			"stroke-width": "3",
+			"fill-opacity": 0.6
+		}
+      },
+	  { 
+	  "id": 4,
+	  "type": "Feature",
+        "geometry": {"type": "Point", "coordinates": [7.105, 50.735]},
+        "properties": {
+			"name": "Cell 0",
+			"mcc": 262,
+			"mnc": 1,
+			"area": 28501,
+			"cell_id": 33176064,
+			"sys_subtype": "LTE",
+			"PCI": "5 (1/2)",
+			"bandwidth": "20 MHz",
+			"EARFCN": 1300,
+			"max_RSRP": "-58 dBm",
+			"direction": "102°",
+			"height": "35 m",
+			"uplink_freq": "1720 MHz",
+			"downlink_freq": "1815 Mhz",
+			"freq_band": "DCS (B3 FDD)",
+			"time": "29. Okt. 2023" 
+			},
+		"style": {
+			"stroke-width": "3",
+			"fill-opacity": 0.6
+		}
+      },
+	  { 
+	  "id": 5,
+	  "type": "Feature",
+        "geometry": {"type": "Point", "coordinates": [7.101, 50.737]},
+        "properties": {
+			"name": "Cell 0",
+			"mcc": 262,
+			"mnc": 1,
+			"area": 28501,
+			"cell_id": 25983488,
+			"sys_subtype": "LTE",
+			"PCI": "339 (113/0)",
+			"bandwidth": "20 MHz",
+			"EARFCN": 1300,
+			"max_RSRP": "-61 dBm",
+			"direction": "54°",
+			"height": "36 m",
+			"uplink_freq": "1720 MHz",
+			"downlink_freq": "1815 Mhz",
+			"freq_band": "DCS (B3 FDD)",
+			"time": "11. Mai. 2023" 
+			},
+		"style": {
+			"stroke-width": "3",
+			"fill-opacity": 0.6
+		}
+      },
+	  { 
+	  "id": 6,
+	  "type": "Feature",
+        "geometry": {"type": "Point", "coordinates": [7.097, 50.735]},
+        "properties": {
+			"name": "Cell 0",
+			"mcc": 262,
+			"mnc": 1,
+			"area": 28501,
+			"cell_id": 25992704,
+			"sys_subtype": "LTE",
+			"PCI": "448 (149/1)",
+			"bandwidth": "20 MHz",
+			"EARFCN": 1300,
+			"max_RSRP": "-68 dBm",
+			"direction": "95°",
+			"height": "37 m",
+			"uplink_freq": "1720 MHz",
+			"downlink_freq": "1815 Mhz",
+			"freq_band": "DCS (B3 FDD)",
+			"time": "19. Juli 2023" 
+			},
+		"style": {
+			"stroke-width": "3",
+			"fill-opacity": 0.6
+		}
+	  },
+	  { 
+	  "id": 7,
+	  "type": "Feature",
+        "geometry": {"type": "Point", "coordinates": [7.12, 50.737]},
+        "properties": {
+			"name": "Cell 0",
+			"mcc": 262,
+			"mnc": 1,
+			"area": 28501,
+			"cell_id": 27177472,
+			"sys_subtype": "LTE",
+			"PCI": "158 (52/2)",
+			"bandwidth": "20 MHz",
+			"EARFCN": 1300,
+			"max_RSRP": "-76 dBm",
+			"direction": "264°",
+			"height": "38 m",
+			"uplink_freq": "1720 MHz",
+			"downlink_freq": "1815 Mhz",
+			"freq_band": "DCS (B3 FDD)",
+			"time": "23. Nov. 2022" 
+			},
+		"style": {
+			"stroke-width": "3",
+			"fill-opacity": 0.6
+		}
+	  },
+	  { 
+	  "id": 8,
+	  "type": "Feature",
+        "geometry": {"type": "Point", "coordinates": [7.117, 50.739]},
+        "properties": {
+			"name": "Cell 0",
+			"mcc": 262,
+			"mnc": 1,
+			"area": 28501,
+			"cell_id": 26342656,
+			"sys_subtype": "LTE",
+			"PCI": "152 (50/2)",
+			"bandwidth": "20 MHz",
+			"EARFCN": 1300,
+			"max_RSRP": "-65 dBm",
+			"direction": "50°",
+			"height": "38 m",
+			"uplink_freq": "1720 MHz",
+			"downlink_freq": "1815 Mhz",
+			"freq_band": "DCS (B3 FDD)",
+			"time": "23. Okt. 2022" 
+			},
+		"style": {
+			"stroke-width": "3",
+			"fill-opacity": 0.6
+		}
+	  },
+	  { 
+	  "id": 9,
+	  "type": "Feature",
+        "geometry": {"type": "Point", "coordinates": [7.089, 50.746]},
+        "properties": {
+			"name": "Cell 0",
+			"mcc": 262,
+			"mnc": 1,
+			"area": 28501,
+			"cell_id": 37183488,
+			"sys_subtype": "LTE",
+			"PCI": "60 (20/0)",
+			"bandwidth": "20 MHz",
+			"EARFCN": 1300,
+			"max_RSRP": "-79 dBm",
+			"direction": "50°",
+			"height": "38 m",
+			"uplink_freq": "1720 MHz",
+			"downlink_freq": "1815 Mhz",
+			"freq_band": "DCS (B3 FDD)",
+			"time": "17. Juli 2022" 
+			},
+		"style": {
+			"stroke-width": "3",
+			"fill-opacity": 0.6
+		}
+	  },
+	  { 
+	  "id": 10,
+	  "type": "Feature",
+        "geometry": {"type": "Point", "coordinates": [7.087, 50.741]},
+        "properties": {
+			"name": "Cell 0",
+			"mcc": 262,
+			"mnc": 1,
+			"area": 28501,
+			"cell_id": 26330624,
+			"sys_subtype": "LTE",
+			"PCI": "315 (105/0)",
+			"bandwidth": "20 MHz",
+			"EARFCN": 1300,
+			"max_RSRP": "-74 dBm",
+			"direction": "36°",
+			"height": "30 m",
+			"uplink_freq": "1720 MHz",
+			"downlink_freq": "1815 Mhz",
+			"freq_band": "DCS (B3 FDD)",
+			"time": "12. Dez. 2022" 
+			},
+		"style": {
+			"stroke-width": "3",
+			"fill-opacity": 0.6
+		}
+	  },
+
+	  
+	  { 
+	  "id": 11,
+	  "type": "Feature",
+        "geometry": {"type": "Point", "coordinates": [7.102, 50.742]},
+        "properties": {
+			"name": "Cell 0",
+			"mcc": 262,
+			"mnc": 1,
+			"area": 28501,
+			"cell_id": 26343424,
+			"sys_subtype": "LTE",
+			"PCI": "413 (137/2)",
+			"bandwidth": "20 MHz",
+			"EARFCN": 1300,
+			"max_RSRP": "-74 dBm",
+			"direction": "57°",
+			"height": "33 m",
+			"uplink_freq": "1720 MHz",
+			"downlink_freq": "1815 Mhz",
+			"freq_band": "DCS (B3 FDD)",
+			"time": "4. Nov. 2022" 
+			},
+		"style": {
+			"stroke-width": "3",
+			"fill-opacity": 0.6
+		}
+	  },
+	  { 
+	  "id": 12,
+	  "type": "Feature",
+        "geometry": {"type": "Point", "coordinates": [7.157, 50.741]},
+        "properties": {
+			"name": "Cell 0",
+			"mcc": 262,
+			"mnc": 1,
+			"area": 28501,
+			"cell_id": 26330624,
+			"sys_subtype": "LTE",
+			"PCI": "315 (105/0)",
+			"bandwidth": "20 MHz",
+			"EARFCN": 1300,
+			"max_RSRP": "-74 dBm",
+			"direction": "36°",
+			"height": "30 m",
+			"uplink_freq": "1720 MHz",
+			"downlink_freq": "1815 Mhz",
+			"freq_band": "DCS (B3 FDD)",
+			"time": "12. Dez. 2022" 
+			},
+		"style": {
+			"stroke-width": "3",
+			"fill-opacity": 0.6
+		}
+	  },
+   ]
+}
