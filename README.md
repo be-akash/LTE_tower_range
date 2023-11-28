@@ -37,28 +37,15 @@ To run the project locally, follow these steps:
 1. Clone the repository:
 
    ```bash
-   git clone https://github.com/your-username/tower-mapping-project.git
+   git clone https://github.com/be-akash/LTE_tower_range.git
    ```
 
 2. Navigate to the project directory:
 
    ```bash
-   cd tower-mapping-project
+   cd LTE_tower_range
    ```
 
-3. Install dependencies:
-
-   ```bash
-   npm install
-   ```
-
-4. Run the project:
-
-   ```bash
-   npm run start
-   ```
-
-Visit `http://localhost:3000` in your browser to explore the tower mapping project.
 
 ## Contribution
 
